@@ -1,0 +1,321 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* BabyMate2AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* BabyMate2AppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		28216C970DB411BC00E5133A /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28216C960DB411BC00E5133A /* FirstViewController.m */; };
+		282CCBFE0DB6C98000C4EA27 /* SecondView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 282CCBFD0DB6C98000C4EA27 /* SecondView.xib */; };
+		288765080DF74369002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765070DF74369002DB57D /* CoreGraphics.framework */; };
+		28AD73880D9D96C1002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD73870D9D96C1002E5188 /* MainWindow.xib */; };
+		A914664911A4391000A382C4 /* LoadingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A914664711A4391000A382C4 /* LoadingViewController.m */; };
+		A914664A11A4391100A382C4 /* LoadingViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A914664811A4391000A382C4 /* LoadingViewController.xib */; };
+		A914665711A43A0500A382C4 /* loading.gif in Resources */ = {isa = PBXBuildFile; fileRef = A914665511A43A0500A382C4 /* loading.gif */; };
+		A914665811A43A0500A382C4 /* mother_and_baby.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A914665611A43A0500A382C4 /* mother_and_baby.jpg */; };
+		A914670111A446DE00A382C4 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = A914670011A446DE00A382C4 /* Default.png */; };
+		A914677211A4529700A382C4 /* baby2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A914677111A4529700A382C4 /* baby2.jpg */; };
+		A914678311A4543900A382C4 /* DiaryMainView.m in Sources */ = {isa = PBXBuildFile; fileRef = A914678111A4543900A382C4 /* DiaryMainView.m */; };
+		A914678411A4543900A382C4 /* DiaryMainView.xib in Resources */ = {isa = PBXBuildFile; fileRef = A914678211A4543900A382C4 /* DiaryMainView.xib */; };
+		A914679D11A4594D00A382C4 /* IMG_0220.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A914679C11A4594D00A382C4 /* IMG_0220.jpg */; };
+		A9D1080311A041FA00E0B2F5 /* DashBoardNavigationBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = A9D1080211A041FA00E0B2F5 /* DashBoardNavigationBarController.m */; };
+		A9D1081911A0443E00E0B2F5 /* 01-11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A9D1081811A0443E00E0B2F5 /* 01-11.jpg */; };
+		A9D1081E11A045FF00E0B2F5 /* _IGP5304.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A9D1081D11A045FF00E0B2F5 /* _IGP5304.jpg */; };
+		A9D1082C11A04AA700E0B2F5 /* DashBoardMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A9D1082A11A04AA700E0B2F5 /* DashBoardMainViewController.m */; };
+		A9D1082D11A04AA700E0B2F5 /* DashBoardMainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A9D1082B11A04AA700E0B2F5 /* DashBoardMainViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* BabyMate2AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BabyMate2AppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* BabyMate2AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BabyMate2AppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* BabyMate2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BabyMate2.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		28216C950DB411BC00E5133A /* FirstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
+		28216C960DB411BC00E5133A /* FirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
+		282CCBFD0DB6C98000C4EA27 /* SecondView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SecondView.xib; sourceTree = "<group>"; };
+		288765070DF74369002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28A0AB4B0D9B1048005BE974 /* BabyMate2_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BabyMate2_Prefix.pch; sourceTree = "<group>"; };
+		28AD73870D9D96C1002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* BabyMate2-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "BabyMate2-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		A914664611A4391000A382C4 /* LoadingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LoadingViewController.h; path = ../LoadingViewController.h; sourceTree = "<group>"; };
+		A914664711A4391000A382C4 /* LoadingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LoadingViewController.m; path = ../LoadingViewController.m; sourceTree = "<group>"; };
+		A914664811A4391000A382C4 /* LoadingViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LoadingViewController.xib; sourceTree = "<group>"; };
+		A914665511A43A0500A382C4 /* loading.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = loading.gif; sourceTree = "<group>"; };
+		A914665611A43A0500A382C4 /* mother_and_baby.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mother_and_baby.jpg; sourceTree = "<group>"; };
+		A914670011A446DE00A382C4 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		A914677111A4529700A382C4 /* baby2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = baby2.jpg; sourceTree = "<group>"; };
+		A914678011A4543900A382C4 /* DiaryMainView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DiaryMainView.h; sourceTree = "<group>"; };
+		A914678111A4543900A382C4 /* DiaryMainView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DiaryMainView.m; sourceTree = "<group>"; };
+		A914678211A4543900A382C4 /* DiaryMainView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = DiaryMainView.xib; path = Classes/DiaryMainView.xib; sourceTree = "<group>"; };
+		A914679C11A4594D00A382C4 /* IMG_0220.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0220.jpg; sourceTree = "<group>"; };
+		A9D1080111A041FA00E0B2F5 /* DashBoardNavigationBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DashBoardNavigationBarController.h; sourceTree = "<group>"; };
+		A9D1080211A041FA00E0B2F5 /* DashBoardNavigationBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DashBoardNavigationBarController.m; sourceTree = "<group>"; };
+		A9D1081811A0443E00E0B2F5 /* 01-11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "01-11.jpg"; sourceTree = "<group>"; };
+		A9D1081D11A045FF00E0B2F5 /* _IGP5304.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = _IGP5304.jpg; sourceTree = "<group>"; };
+		A9D1082911A04AA700E0B2F5 /* DashBoardMainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DashBoardMainViewController.h; sourceTree = "<group>"; };
+		A9D1082A11A04AA700E0B2F5 /* DashBoardMainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DashBoardMainViewController.m; sourceTree = "<group>"; };
+		A9D1082B11A04AA700E0B2F5 /* DashBoardMainViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = DashBoardMainViewController.xib; path = Classes/DashBoardMainViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765080DF74369002DB57D /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				A914664611A4391000A382C4 /* LoadingViewController.h */,
+				A914664711A4391000A382C4 /* LoadingViewController.m */,
+				28216C950DB411BC00E5133A /* FirstViewController.h */,
+				28216C960DB411BC00E5133A /* FirstViewController.m */,
+				1D3623240D0F684500981E51 /* BabyMate2AppDelegate.h */,
+				1D3623250D0F684500981E51 /* BabyMate2AppDelegate.m */,
+				A9D1080111A041FA00E0B2F5 /* DashBoardNavigationBarController.h */,
+				A9D1080211A041FA00E0B2F5 /* DashBoardNavigationBarController.m */,
+				A9D1082911A04AA700E0B2F5 /* DashBoardMainViewController.h */,
+				A9D1082A11A04AA700E0B2F5 /* DashBoardMainViewController.m */,
+				A914678011A4543900A382C4 /* DiaryMainView.h */,
+				A914678111A4543900A382C4 /* DiaryMainView.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* BabyMate2.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* BabyMate2 */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = BabyMate2;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				A914677111A4529700A382C4 /* baby2.jpg */,
+				A914679C11A4594D00A382C4 /* IMG_0220.jpg */,
+				A914665511A43A0500A382C4 /* loading.gif */,
+				A914665611A43A0500A382C4 /* mother_and_baby.jpg */,
+				A9D1081D11A045FF00E0B2F5 /* _IGP5304.jpg */,
+				A914670011A446DE00A382C4 /* Default.png */,
+				A9D1081811A0443E00E0B2F5 /* 01-11.jpg */,
+				28A0AB4B0D9B1048005BE974 /* BabyMate2_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				A914678211A4543900A382C4 /* DiaryMainView.xib */,
+				A914664811A4391000A382C4 /* LoadingViewController.xib */,
+				A9D1082B11A04AA700E0B2F5 /* DashBoardMainViewController.xib */,
+				282CCBFD0DB6C98000C4EA27 /* SecondView.xib */,
+				28AD73870D9D96C1002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* BabyMate2-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765070DF74369002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* BabyMate2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "BabyMate2" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BabyMate2;
+			productName = BabyMate2;
+			productReference = 1D6058910D05DD3D006BFB54 /* BabyMate2.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "BabyMate2" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* BabyMate2 */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* BabyMate2 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD73880D9D96C1002E5188 /* MainWindow.xib in Resources */,
+				282CCBFE0DB6C98000C4EA27 /* SecondView.xib in Resources */,
+				A9D1081911A0443E00E0B2F5 /* 01-11.jpg in Resources */,
+				A9D1081E11A045FF00E0B2F5 /* _IGP5304.jpg in Resources */,
+				A9D1082D11A04AA700E0B2F5 /* DashBoardMainViewController.xib in Resources */,
+				A914664A11A4391100A382C4 /* LoadingViewController.xib in Resources */,
+				A914665711A43A0500A382C4 /* loading.gif in Resources */,
+				A914665811A43A0500A382C4 /* mother_and_baby.jpg in Resources */,
+				A914670111A446DE00A382C4 /* Default.png in Resources */,
+				A914677211A4529700A382C4 /* baby2.jpg in Resources */,
+				A914678411A4543900A382C4 /* DiaryMainView.xib in Resources */,
+				A914679D11A4594D00A382C4 /* IMG_0220.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* BabyMate2AppDelegate.m in Sources */,
+				28216C970DB411BC00E5133A /* FirstViewController.m in Sources */,
+				A9D1080311A041FA00E0B2F5 /* DashBoardNavigationBarController.m in Sources */,
+				A9D1082C11A04AA700E0B2F5 /* DashBoardMainViewController.m in Sources */,
+				A914664911A4391000A382C4 /* LoadingViewController.m in Sources */,
+				A914678311A4543900A382C4 /* DiaryMainView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = BabyMate2_Prefix.pch;
+				INFOPLIST_FILE = "BabyMate2-Info.plist";
+				PRODUCT_NAME = BabyMate2;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = BabyMate2_Prefix.pch;
+				INFOPLIST_FILE = "BabyMate2-Info.plist";
+				PRODUCT_NAME = BabyMate2;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: James Chang (H2A66824W9)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: James Chang (H2A66824W9)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				PROVISIONING_PROFILE = "208BE96D-1579-4B15-9783-B93943168166";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "208BE96D-1579-4B15-9783-B93943168166";
+				SDKROOT = iphoneos3.1.2;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: James Chang (H2A66824W9)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: James Chang (H2A66824W9)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				PROVISIONING_PROFILE = "208BE96D-1579-4B15-9783-B93943168166";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "208BE96D-1579-4B15-9783-B93943168166";
+				SDKROOT = iphoneos3.1.2;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "BabyMate2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "BabyMate2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
